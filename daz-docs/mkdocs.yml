@@ -1,0 +1,33 @@
+site_name: Daz University
+
+nav:
+  - Home: 'index.md'
+  - Content Creation Setup:
+      - Installing Daz Studio: 'setup/installing_studio.md'
+      - Content Creation Setup: 'setup/layout.md'
+      - Custom Scripts: 'setup/custom_scripts.md'
+      - Installing Content: 'setup/content_install.md'
+  - Tools:
+      - Morph Loader Pro: 'tools/morph_loader_pro.md'
+      - Transfer Utility: 'tools/transfer_utility.md'
+  - Character Creation:
+      - What is a Daz Character?: 'character_creation/character_creation_first_steps.md'
+      - Spin Dial Characters: 'character_creation/spin_dial_character.md'
+      - Character Modeling: 'character_creation/character_modeling.md'
+      - HD Character Sculpting: 'character_creation/hd_character.md'
+  - Clothing Creation:
+      - High Heels: 'clothing_creation/high_heels.md'
+  - File Conversions:
+      - Daz to GLTF using Blender: 'extra/gltf_conversion.md'
+  - Webinars:
+      - Webinar 01 - 29 August 2017: 'webinars/webinar_001-08-08-2017.md'
+
+theme:
+  name: material
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg

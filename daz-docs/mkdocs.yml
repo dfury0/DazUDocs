@@ -17,6 +17,8 @@ nav:
       - HD Character Sculpting: 'character_creation/hd_character.md'
   - Clothing Creation:
       - High Heels: 'clothing_creation/high_heels.md'
+  - Product Submission:
+      - Promotional Artwork Guidelines: 'product_submission/promo_artwork_standards.md'
   - File Conversions:
       - Daz to GLTF using Blender: 'extra/gltf_conversion.md'
   - Webinars:

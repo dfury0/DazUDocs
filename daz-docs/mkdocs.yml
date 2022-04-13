@@ -26,6 +26,9 @@ nav:
 
 theme:
   name: material
+  palette:
+    primary: light blue
+    # scheme: slate
 
 markdown_extensions:
   - attr_list
@@ -33,3 +36,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - mkdocs-video
+  - search

@@ -7,21 +7,4 @@ We have developed this site to help you to be the best Daz artist possible. You 
 Here at Daz, we have a great team that is working long hours to review, test, coordinate, and populate the store with all the products you are creating.  Would you like to meet some of the Daz Content team? Click on the "Read More" button below.
 
 ## DAZ Workflows
-* `how to get started` - get started
 
-<figure markdown>
-  ![Image title](https://dummyimage.com/720x480/){ width="720" }
-  <figcaption>Image caption</figcaption>
-</figure>
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

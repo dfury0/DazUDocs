@@ -14,18 +14,21 @@ The following are the artwork standards and requirements for product page artwor
 
 ## Image Size Requirements
 
-* ##### **Main promo **must be**:**
-    
-    * Size: 1000 X 1300 pixels
-    * Format: portrait
-* **Pop-up illustrations:** 
-    
-    * Size: minimum 1000 X 1300 pixels
-    * Format: portrait or landscape
-* **Thumbnail**:
-    * Required if the Main promo has text, logo, or watermark - must not have any of these. 
-    * Size 380 X 494 pixels.
-    * Format: portrait
+#### Main promo
+
+* Size: 1000 X 1300 pixels
+* Format: portrait
+
+#### Pop-up illustrations
+
+* Size: minimum 1000 X 1300 pixels
+* Format: portrait or landscape
+
+#### Thumbnail
+
+* Required if the Main promo has text, logo, or watermark - must not have any of these. 
+* Size 380 X 494 pixels.
+* Format: portrait
 
 
 ## Images Required By Product Type
@@ -161,7 +164,7 @@ Artwork will be evaluated during the Approval process with a final evaluation be
 
  **You can include these in your product, but you can't show them in your promos.
 
-**No Offensive Iconography**
+#### **No Offensive Iconography**
 
 * No content shall be deemed or depicted as offensive to any race, group, culture, Country, religion, minority, or other instance. Examples of this are and are not limited to the list below. Use of these in any content can result in a declined product.
     * Black Face
@@ -170,7 +173,7 @@ Artwork will be evaluated during the Approval process with a final evaluation be
     * Religious 
     * Confederate Flag 
 
-**Copyright**
+#### **No Copyright Infringement**
 
 * No copyrighted artwork or images whatsoever
 * No copyrighted logos, brands, names, etc. Even if they aren’t included in the product

@@ -10,12 +10,12 @@ nav:
   - Tools:
       - Morph Loader Pro: 'tools/morph_loader_pro.md'
       - Transfer Utility: 'tools/transfer_utility.md'
-  - Character Creation:
+  - Characters:
       - What is a Daz Character?: 'character_creation/character_creation_first_steps.md'
       - Spin Dial Characters: 'character_creation/spin_dial_character.md'
       - Character Modeling: 'character_creation/character_modeling.md'
       - HD Character Sculpting: 'character_creation/hd_character.md'
-  - Clothing Creation:
+  - Clothing:
       - High Heels: 'clothing_creation/high_heels.md'
   - Product Submission:
       - Promotional Artwork Guidelines: 'product_submission/promo_artwork_standards.md'
@@ -26,6 +26,9 @@ nav:
 
 theme:
   name: material
+  # features:
+    # - navigation.tabs
+    # puts tabs on top, I kind of like it
   palette:
     primary: light blue
     # scheme: slate

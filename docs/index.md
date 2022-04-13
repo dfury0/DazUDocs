@@ -1,6 +1,4 @@
-# Welcome to Daz3D Docs
-
-Download DAZ Studio from [daz3d.com](https://www.daz3d.com/)
+# Welcome to Daz University Content Creation Docs
 
 We have developed this site to help you to be the best Daz artist possible. You will find reference guides, tutorials, and tools developed to improve your skills and streamline your processes.  We will and are continually looking at what training materials and resources we can create to help you learn and develop your skills and talents.  If you succeed, we all succeed. ​
 

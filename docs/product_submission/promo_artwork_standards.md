@@ -109,19 +109,19 @@ Artwork will be evaluated during the Approval process with a final evaluation be
 
 ### Promo Art General Rules
 
-**Naming images: **
+#### **Naming images **
 
 * "product name_main"
 * "product name_thumbnail"
 * "product name_popup_1", "product name_popup_2", etc.
 
-**Body parts in images should have:**
+#### **Body parts in images should have**
 
 * Belly buttons/navel = ON
 * Nipples = OFF (Women, children)
 * Genital bulge = OFF  (default only)
 
-**Nudity and Sexuality**
+#### **Nudity and Sexuality**
 
 * No nudity
 * No "implied nudity".  The viewer must be able to see enough of a clothing item to know  the character isn't naked
@@ -140,38 +140,40 @@ Artwork will be evaluated during the Approval process with a final evaluation be
 
 **Overall, no overly sexualized content or behavior. Doing so risks your product being declined.**
 
-**Underage or Teen Characters (Below 18)**
+#### **Underage or Teen Characters (Below 18)**
 
 * Age-appropriate clothing only
     * Based on how old they look, not the description.
 * No bare shoulders (use a T-shirt and shorts)
 * No bare midriff
 * No swimsuits
-    * Only allowed if the product is a swimsuit for kids/teens. Shown only in a pool or beach environments
+    * Only allowed if the product is a swimsuit for kids/teens 
+    * Shown only in a pool or beach environments
 * No tattoos
 * Age-appropriate poses
     * No sexual or suggestive poses or expressions
 * Age-appropriate environments
 
-**Absolutely no sexuality of children whatsoever. This will result in an immediate decline
+**Absolutely no sexuality of children whatsoever. This will result in an immediate decline.**
 
-**Poses to Exclude**
+#### **Poses to Exclude**
 
 * Overly Sexual
 * Reverse peace sign ( “peace” with the back of the hand facing out)
 * “Flipping the bird” (only middle finger up)
 * Any other offensive hand gestures
 
- **You can include these in your product, but you can't show them in your promos.
+ **You can include these in your product, but you can't show them in your promos**.
 
 #### **No Offensive Iconography**
 
-* No content shall be deemed or depicted as offensive to any race, group, culture, Country, religion, minority, or other instance. Examples of this are and are not limited to the list below. Use of these in any content can result in a declined product.
-    * Black Face
-    * Swastika
-    * Rising Sun 
-    * Religious 
-    * Confederate Flag 
+No content shall be deemed or depicted as offensive to any race, group, culture, Country, religion, minority, or other instance. Examples of this are and are not limited to the list below. Use of these in any content can result in a declined product.
+
+* Black Face
+* Swastika
+* Rising Sun 
+* Religious 
+* Confederate Flag 
 
 #### **No Copyright Infringement**
 

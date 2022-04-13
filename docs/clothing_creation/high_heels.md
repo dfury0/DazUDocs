@@ -1,58 +1,74 @@
 # High Heel Shoe Rigging
-Rigging high heeled shoes effectively starts from the modeling process.
+Rigging high-heeled shoes effectively start from the modeling process. There are a couple of steps in this workflow that are unique to High Heels because the shoes must change the Genesis default pose for them to work correctly. 
 ## Video
 ![type:video](https://www.youtube.com/embed/ykMxPJbysjg)
 
-Pose Genesis for high heels
+#### Pose Genesis for high heels
 
 * Use High Heel Pose Control or foot bend for custom shoe height
 * You can set feet flat legs together for easier modeling
   - You must reverse this pose later
 
-Save heel pose
+* Save the  heel pose
+  - You will need it later
 
-- You will need it later
 
-Create symmetrical high-heel-shoes in modeler 
+#### Create symmetrical high-heel-shoes in modeler 
 
-- Model on high-heel posed Genesis
+- Model on Genesis posed for High Heels for reference
 
-Import shoes OBJ to Daz
+* Import shoes OBJ into Daz Studio
 
-Apply to pose to Genesis and make sure shoe still fits
+* Apply to pose to Genesis and make sure the  shoe still fits
 
-- Transfer saved high-heel pose to the shoes (critical unique step)
-  - Click high heel posed Genesis
-  - Select Joint Control Tool
-  - Right click in view port
-  - Edit | Bake Joint Rotations
-    - This is the only workflow you will do this
-- Transfer weights from Genesis to shoes using transfer utility
-  - No projection template
-- Save shoe asset
-  - File Save As > Figure / Prop Asset
+#### Transfer saved high-heel pose to the shoes (critical unique step)
+
+- Click high heel posed Genesis
+- Select Joint Control Tool
+- Right-click in viewport
+- Edit | Bake Joint Rotations
+  - Changes the default pose for Genesis to wear high heels
+  - High Heel creation is the <u>only</u> workflow you will use this tool
+
+#### Transfer weights from Genesis to shoes using the Transfer Utility
+
+- No projection template
+
+#### Save shoe asset and reload
+
+- File Save As > Figure / Prop Asset
+
 - Create new blank document
 - Load Genesis and apply heel pose
 - Load shoes
-- Create 0_Pose (flat-foot toe-up pose)
-  - toes up mimics high heel pose
+
+#### Paint Weights with toes up
+
+- Create a flat-foot toe-up pose
+  - Call it 0_Pose
+  - toes up mimic high heel pose
 - Paint shoe weights to toe group and foot
   - Not Individual toes
+
+#### Create Joint Controlled Morphs for High Heels
+
 - Create left and right foot up/down movement shoe JCMs
-  - 0_Pose - Flat-foot toes-up
-    - 0_Pose_L
-    - 0_Pose_R
+  - Flat-foot toes-up morphs
+    - **0_Pose_L**
+    - **0_Pose_R**
     - Matches shoe pose for toes with heel flat
-  - Foot Down 75
-    - Foot_Down_75_L
-    - Foot_Down_75_R
-    - Increase foot down maximum from 65 to 75
-  - Foot Up 40
-    - Foot_Up_40_L
-    - Foot_Up_40_R
-- Set-up original shoe-shape morph ERC
-  - Original Shoe Shape
-    - Shape_L
-    - Shape_R
-    - Original modeled shoe shape
-      - ERC to foot bone in default shoe pose
+  - Foot down morphs
+    - **Foot_Down_75_L**
+    - **Foot_Down_75_R**
+    - Increase foot down maximum from 65 to 75 for better performance
+  - Foot up morphs
+    - **Foot_Up_40_L**
+    - **Foot_Up_40_R**
+
+#### Set up the originally modeled shoe shape as a morph ERC
+
+- Original Shoe Shape
+  - Shape_L
+  - Shape_R
+  - Original modeled shoe shape
+    - ERC to foot bone in default shoe pose

@@ -1,19 +1,17 @@
-# High Heel Shoe Rigging
+# High Heel Shoe Rigging 
+## Workflow by [Mada](https://www.daz3d.com/mada)
 Rigging high-heeled shoes effectively start from the modeling process. There are a couple of steps in this workflow that are unique to High Heels because the shoes must change the Genesis default pose for them to work correctly. 
 ## Video
 ![type:video](https://www.youtube.com/embed/ykMxPJbysjg)
 
-#### Pose Genesis for high heels
+### Pose Genesis for high heels and save pose
 
 * Use High Heel Pose Control or foot bend for custom shoe height
 * You can set feet flat legs together for easier modeling
-  - You must reverse this pose later
+  - You must reverse flat foot pose later
+* Save the  heel pose, you will need it later
 
-* Save the  heel pose
-  - You will need it later
-
-
-#### Create symmetrical high-heel-shoes in modeler 
+### Model symmetrical shoes
 
 - Model on Genesis posed for High Heels for reference
 
@@ -21,7 +19,8 @@ Rigging high-heeled shoes effectively start from the modeling process. There are
 
 * Apply to pose to Genesis and make sure the  shoe still fits
 
-#### Transfer saved high-heel pose to the shoes (critical unique step)
+### Transfer saved high-heel pose to the shoes 
+This step is critical and unique to making High Heel Shoes. 
 
 - Click high heel posed Genesis
 - Select Joint Control Tool
@@ -30,19 +29,18 @@ Rigging high-heeled shoes effectively start from the modeling process. There are
   - Changes the default pose for Genesis to wear high heels
   - High Heel creation is the <u>only</u> workflow you will use this tool
 
-#### Transfer weights from Genesis to shoes using the Transfer Utility
+### Transfer weights from Genesis to shoes using the Transfer Utility
 
 - No projection template
 
-#### Save shoe asset and reload
+### Save shoe asset and reload
 
 - File Save As > Figure / Prop Asset
-
 - Create new blank document
 - Load Genesis and apply heel pose
 - Load shoes
 
-#### Paint Weights with toes up
+### Paint Weights with toes up
 
 - Create a flat-foot toe-up pose
   - Call it 0_Pose
@@ -50,7 +48,7 @@ Rigging high-heeled shoes effectively start from the modeling process. There are
 - Paint shoe weights to toe group and foot
   - Not Individual toes
 
-#### Create Joint Controlled Morphs for High Heels
+### Create Joint Controlled Morphs for High Heels
 
 - Create left and right foot up/down movement shoe JCMs
   - Flat-foot toes-up morphs
@@ -65,7 +63,7 @@ Rigging high-heeled shoes effectively start from the modeling process. There are
     - **Foot_Up_40_L**
     - **Foot_Up_40_R**
 
-#### Set up the originally modeled shoe shape as a morph ERC
+### Set up the originally modeled shoe shape as a morph ERC
 
 - Original Shoe Shape
   - Shape_L

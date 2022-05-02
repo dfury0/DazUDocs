@@ -35,7 +35,7 @@
 
 * **Normal map exports** - Because the low and high-resolution character shapes are sold separately, we bake a set of normal maps from the final character files, high to low, to ship with the low-resolution character product. Safest to do this at the end of the process.
 
-  ## Character Sculpting
+## Character Sculpting
 
 * **Scaling** - Keep character blendshapes the same scale as the base, so all characters have a uniform volume. Otherwise, blendshapes on the figure will be too strong, or weak. 
 
@@ -53,7 +53,7 @@
 
   * See the video [starting around 2:50](https://youtu.be/SM9jlyiiMqs?t=169) for an explanation
 
-  ## Basic Workflow
+## Basic Workflow
 
   We highly recommend a quick test of the first 3 steps and send us your high resolution mesh. We will verify it is still compatible with our mesh before you put any substantial time into a sculpt. 
 

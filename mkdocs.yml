@@ -20,83 +20,98 @@ nav:
         - HD Character Sculpting: 'character_creation/hd_character.md'
       - Poses:
           - Saving Poses: 'character_creation/pose.md'
+  - Poses and Animations:
+      - Poses: 'poses/poses.md'
+      - Expressions: 'poses/expressions.md'
+      - Pose Presets: 'poses/animations.md'
+      - Animations: 'poses/animations.md'
+  - Props:
+      - Daz to GLTF using Blender: 'extra/gltf_conversion.md'
+  - Environments:
+      - Environments: 'environments/environments.md'
   - Clothing:
+      - Clothing creation basics: 'clothing_creation/mada_basics.md'
       - High Heels: 'clothing_creation/high_heels.md'
+      - Clothing reference videos: 'clothing_creation/clothing_reference_videos.md'
+  - Hair:
+      - Hair: 'hair/hair.md'
   - Product Submission:
       - Promotional Artwork Guidelines: 'product_submission/promo_artwork_standards.md'
-  - File Conversions:
-      - Daz to GLTF using Blender: 'extra/gltf_conversion.md'
   - Webinars:
-      - 01 - Morph Loader Pro and Corrective Morphs: 'webinars/August 29, 2017.md'
-      - 02 Character Presets, Layouts, Weight Painting: 'webinars/August 31, 2017.md'
-      - 04 Geografting, HD Morphs, and Transfer Utility: 'webinars/September 6, 2017.md'
-      - 04 Scripting in Daz Studio and Shading Questions: 'webinars/September 8, 2017.md'
-      - dForce clothing simulations: 'webinars/September 12, 2017.md'
-      - 06 Rigging Hair and Clothes: 'webinars/September 14, 2017.md'
-      - 07 HDRIs and clothing fixes: 'webinars/September 19, 2017.md'
-      - 08 Clothing rigging basics: 'webinars/September 21, 2017.md'
-      - 09 Rigidity and bone followers: 'webinars/September 26, 2017.md'
-      - 10 Rigging a long dress and dForce: 'webinars/September 28, 2017.md'
-      - 11 dForce settings: 'webinars/October 3, 2017.md'
-      - 12 dForce settings: 'webinars/October 6, 2017.md'
-      - 13 High heel rigging: 'webinars/October 10, 2017.md'
-      - 14 Shader Mixer: 'webinars/October 12, 2017.md'
-      - 15 Shader Mixer and dForce dynamic surface add-on: 'webinars/October 18, 2017.md'
-      - 16 dForce seams and simulation: 'webinars/October 24, 2017.md'
-      - 17 dForce and clothing rigging: 'webinars/October 26, 2017.md'
-      - 18 Iray, Conditional Grafts, Wearable presets: 'webinars/October 31, 2017.md'
-      - 19 Viewport tips: 'webinars/November 2, 2017.md'
-      - 20 Bone orientation and iray transmission settings: 'webinars/November 7, 2017.md'
-      - 21 Iray lighting and canvases: 'webinars/November 9, 2017.md'
-      - 22 iray, sample scripts and dForce animation: 'webinars/November 14, 2017.md'
-      - 23 Keyed ERC, MCM/JCM tips, dForce setting updates: 'webinars/November 16, 2017.md'
-      - 24 Prop scale, character scale, donor figures: 'webinars/November 21, 2017.md'
-      - 25 Weight maps, finding content, point at: 'webinars/November 28, 2017.md'
-      - 26 weightmapping genesis 2 and layered image editor: 'webinars/November 30, 2017.md'
-      - 27 transferring morphs from G8 to G3, rigging a skirt: 'webinars/December 7, 2017.md'
-      - 28 Character building Q&A: 'webinars/December 14, 2017.md'
-      - 29 ERC and additive character morphs: 'webinars/December 21, 2017.md'
-      - 30 Managing content, submitting a bundle, saving poses: 'webinars/January 12, 2018.md'
-      - 31 Geografting a tail and rigging a belt buckle: 'webinars/January 18, 2018.md'
-      - 32 Customizing Daz Studio, Character Q&A: 'webinars/January 25, 2018.md'
-      - 33 Pre-release files and promo requirements: 'webinars/February 1, 2018.md'
-      - 34 Clothing JCMs and dForce settings: 'webinars/February 8, 2018.md'
-      - 35 QA standards, naming, and testing: 'webinars/Feburary 15, 2018.md'
-      - 36 - Part 1 Product approval process: 'webinars/March 1, 2018 Part 1.md'
-      - 36 - Part 2 Cleaning up morphs: 'webinars/March 1, 2018 Part 2.md'
-      - 37 iray skin settings and rigging attachments: 'webinars/March 8, 2018.md'
-      - 38 Animation and character rigging: 'webinars/March 15, 2018.md'
-      - 39 Character creation: 'webinars/March 22, 2018.md'
-      - 40 Rigidity, rigid-follow nodes, and control bones: 'webinars/March 29, 2018.md'
-      - 41 Basic rigging concepts, hand props, and nodes: 'webinars/April 5, 2018.md'
-      - 42 dForce fur and hair (outdated): 'webinars/April 26, 2018.md'
-      - 43 Guest Speaker Lyoness, hair, wind, clothing: 'webinars/May 3, 2018.md'
-      - 44 Guest speaker Dimension Theory on render canvases: 'webinars/May 10, 2018.md'
-      - 45 Multidimensional Property Script, prop scale, dForce hair: 'webinars/May 17, 2018.md'
-      - 45 Iray Uber shader settings: 'webinars/May 24, 2018.md'
-      - 47 Figure morph settings and controls: 'webinars/May 31, 2018.md'
-      - 49 Character morphs and presets, instances, double sided iray shader: 'webinars/June 14, 2018.md'
-      - 50 Silent OBJ export script, animation script samples, PASS update: 'webinars/June 21, 2018.md'
-      - 51 Shrinking product sizes: 'webinars/June 28, 2018.md'
-      - 52 UV mapping requirements and texture sizes: 'webinars/July 19, 2018.md'
-      - 53 Promotional renders, image noise removal, curly dForce hair: 'webinars/July 26, 2018.md'
-      - 54 dForce hair process (automated with new tool): 'webinars/August 2, 2018.md'
-      - 55 dForce hair pipeline: 'webinars/August 16, 2018.md'
-      - 56 Shoe creation: 'webinars/August 30, 2018.md'
-      - 57 Saving templates and hierarchical presets: 'webinars/September 20, 2018.md'
-      - 58 dForce hair process update: 'webinars/November 15, 2018.md'
-      - 59 Update base geometry, Transfer Utility, material preset conversion: 'webinars/November 29, 2018.md'
-      - 60 Smoothing modifier, weight mapping morphs influence, projection morphs: 'webinars/December 13, 2018.md'
-      - 61 Pose controls, hiding and fitting feet in shoes, twist bones: 'webinars/January 10, 2019.md'
-      - 62 Strand Based hair with Garibaldi: 'webinars/January 24, 2019.md'
-      - 63 dForce hair creation and updates: 'webinars/February 8, 2019.md'
-      - 64 Mesh resolution and creating strand based hair: 'webinars/February 22, 2019.md'
-      - Webinar 01 - 29 August 2017: 'webinars/webinar_001-08-08-2017.md'
+      - Webinars: 'webinars/about_webinars.md'
+      - 01 - Morph Loader Pro and Corrective Morphs: 'webinars/webinar_1.md'
+      - 02 - Character Presets, Layouts, Weight Painting: 'webinars/webinar_2.md'
+      - 03 - Geografting, HD Morphs, and Transfer Utility: 'webinars/webinar_3.md'
+      - 04 - Scripting in Daz Studio and Shading Questions: 'webinars/webinar_4.md'
+      - 05 - dForce clothing simulations: 'webinars/webinar_5.md'
+      - 06 - Rigging Hair and Clothes: 'webinars/webinar_6.md'
+      - 07 - HDRIs and clothing fixes: 'webinars/webinar_7.md'
+      - 08 - Clothing rigging basics: 'webinars/webinar_8.md'
+      - 09 - Rigidity and bone followers: 'webinars/webinar_9.md'
+      - 10 - Rigging a long dress and dForce: 'webinars/webinar_10.md'
+      - 11 - dForce settings: 'webinars/webinar_11.md'
+      - 12 - dForce settings: 'webinars/webinar_12.md'
+      - 13 - High heel rigging: 'webinars/webinar_13.md'
+      - 14 - Shader Mixer: 'webinars/webinar_14.md'
+      - 15 - Shader Mixer and dForce dynamic surface add-on: 'webinars/webinar_15.md'
+      - 16 - dForce seams and simulation: 'webinars/webinar_16.md'
+      - 17 - dForce and clothing rigging: 'webinars/webinar_17.md'
+      - 18 - Iray, Conditional Grafts, Wearable presets: 'webinars/webinar_18.md'
+      - 19 - Viewport tips: 'webinars/webinar_19.md'
+      - 20 - Bone orientation and iray transmission settings: 'webinars/webinar_20.md'
+      - 21 - Iray lighting and canvases: 'webinars/webinar_21.md'
+      - 22 - iray, sample scripts and dForce animation: 'webinars/webinar_22.md'
+      - 23 - Keyed ERC, MCM/JCM tips, dForce setting updates: 'webinars/webinar_23.md'
+      - 24 - Prop scale, character scale, donor figures: 'webinars/webinar_24.md'
+      - 25 - Weight maps, finding content, point at: 'webinars/webinar_25.md'
+      - 26 - weightmapping genesis 2 and layered image editor: 'webinars/webinar_26.md'
+      - 27 - transferring morphs from G8 to G3, rigging a skirt: 'webinars/webinar_27.md'
+      - 28 - Character building Q&A: 'webinars/webinar_28.md'
+      - 29 - ERC and additive character morphs: 'webinars/webinar_29.md'
+      - 30 - Managing content, submitting a bundle, saving poses: 'webinars/webinar_30.md'
+      - 31 - Geografting a tail and rigging a belt buckle: 'webinars/webinar_31.md'
+      - 32 - Customizing Daz Studio, Character Q&A: 'webinars/webinar_32.md'
+      - 33 - Pre-release files and promo requirements: 'webinars/webinar_33.md'
+      - 34 - Clothing JCMs and dForce settings: 'webinars/webinar_34.md'
+      - 35 - QA standards, naming, and testing: 'webinars/webinar_35.md'
+      - 36 - Part 1 Product approval process: 'webinars/webinar_36.md'
+      - 36 - Part 2 Cleaning up morphs: 'webinars/webinar_37.md'
+      - 37 - Iray skin settings and rigging attachments: 'webinars/webinar_38.md'
+      - 38 - Animation and character rigging: 'webinars/webinar_39.md'
+      - 39 - Character creation: 'webinars/webinar_40.md'
+      - 40 - Rigidity, rigid-follow nodes, and control bones: 'webinars/webinar_41.md'
+      - 41 - Basic rigging concepts, hand props, and nodes: 'webinars/webinar_42.md'
+      - 42 - dForce fur and hair (outdated): 'webinars/webinar_43.md'
+      - 43 - Guest Lyoness, hair, wind, clothing: 'webinars/webinar_44.md'
+      - 44 - Guest Dimension Theory on render canvases: 'webinars/webinar_45.md'
+      - 45 - Multidimensional Property Script, prop scale, dForce hair: 'webinars/webinar_46.md'
+      - 45 - Iray Uber shader settings: 'webinars/webinar_47.md'
+      - 47 - Figure morph settings and controls: 'webinars/webinar_48.md'
+      - 49 - Character morphs and presets, instances, double sided iray shader: 'webinars/webinar_49.md'
+      - 50 - Silent OBJ export script, animation script samples, PASS update: 'webinars/webinar_50.md'
+      - 51 - Shrinking product sizes: 'webinars/webinar_51.md'
+      - 52 - UV mapping requirements and texture sizes: 'webinars/webinar_52.md'
+      - 53 - Promotional renders, image noise removal, curly dForce hair: 'webinars/webinar_53.md'
+      - 54 - dForce hair process (automated with new tool): 'webinars/webinar_54.md'
+      - 55 - dForce hair pipeline: 'webinars/webinar_55.md'
+      - 56 - Shoe creation: 'webinars/webinar_56.md'
+      - 57 - Saving templates and hierarchical presets: 'webinars/webinar_57.md'
+      - 58 - dForce hair process update: 'webinars/webinar_58.md'
+      - 59 - Update base geometry, Transfer Utility, material preset conversion: 'webinars/webinar_59.md'
+      - 60 - Smoothing modifier, weight mapping morphs influence, projection morphs: 'webinars/webinar_60.md'
+      - 61 - Pose controls, hiding and fitting feet in shoes, twist bones: 'webinars/webinar_61.md'
+      - 62 - Strand Based hair with Garibaldi: 'webinars/webinar_62.md'
+      - 63 - dForce hair creation and updates: 'webinars/webinar_63.md'
+      - 64 - Mesh resolution and creating strand based hair: 'webinars/webinar_64.md'
+
 
 theme:
   name: material
   features:
     - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - search.share
   theme:
     palette:
       primary: light blue
@@ -123,4 +138,70 @@ markdown_extensions:
 plugins:
   - mkdocs-video
   - search
-  - exclude-search
+  - exclude-search:
+      exclude:
+        webinar_1.md#video
+        webinar_2.md#video
+        webinar_3.md#video
+        webinar_4.md#video
+        webinar_5.md#video
+        webinar_6.md#video
+        webinar_7.md#video
+        webinar_8.md#video
+        webinar_9.md#video
+        webinar_10.md#video
+        webinar_11.md#video
+        webinar_12.md#video
+        webinar_13.md#video
+        webinar_14.md#video
+        webinar_15.md#video
+        webinar_16.md#video
+        webinar_17.md#video
+        webinar_18.md#video
+        webinar_19.md#video
+        webinar_20.md#video
+        webinar_21.md#video
+        webinar_22.md#video
+        webinar_23.md#video
+        webinar_24.md#video
+        webinar_25.md#video
+        webinar_26.md#video
+        webinar_27.md#video
+        webinar_28.md#video
+        webinar_29.md#video
+        webinar_30.md#video
+        webinar_31.md#video
+        webinar_32.md#video
+        webinar_33.md#video
+        webinar_34.md#video
+        webinar_35.md#video
+        webinar_36.md#video
+        webinar_37.md#video
+        webinar_38.md#video
+        webinar_39.md#video
+        webinar_40.md#video
+        webinar_41.md#video
+        webinar_42.md#video
+        webinar_43.md#video
+        webinar_44.md#video
+        webinar_45.md#video
+        webinar_46.md#video
+        webinar_47.md#video
+        webinar_48.md#video
+        webinar_49.md#video
+        webinar_50.md#video
+        webinar_51.md#video
+        webinar_52.md#video
+        webinar_53.md#video
+        webinar_54.md#video
+        webinar_55.md#video
+        webinar_56.md#video
+        webinar_57.md#video
+        webinar_58.md#video
+        webinar_59.md#video
+        webinar_60.md#video
+        webinar_61.md#video
+        webinar_62.md#video
+        webinar_63.md#video
+        webinar_64.md#video
+

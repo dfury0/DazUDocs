@@ -2,7 +2,7 @@ site_name: Daz University
 
 nav:
   - Home: 'index.md'
-  - Content Creation Setup:
+  - Content Creation Basics:
       - Installations:
         - Installing Daz Studio: 'setup/installing_studio.md'
       - Customizing Studio: 'setup/layout.md'
@@ -25,12 +25,15 @@ nav:
       - Expressions: 'poses/expressions.md'
       - Pose Presets: 'poses/animations.md'
       - Animations: 'poses/animations.md'
-  - Props:
-      - Daz to GLTF using Blender: 'extra/gltf_conversion.md'
-  - Environments:
+  - Props and Environments:
       - Environments: 'environments/environments.md'
+      - Daz to GLTF using Blender: 'extra/gltf_conversion.md'
   - Clothing:
       - Clothing creation basics: 'clothing_creation/mada_basics.md'
+      - Flat Sandals: 'clothing_creation/flat_sandals.md'
+      - Tight Top: 'clothing_creation/tight_top.md'
+      - Buttons with Rigid Follow: 'clothing_creation/rigid_follow_buttons.md'
+      - Long Pants: 'clothing_creation/long_pants.md'
       - High Heels: 'clothing_creation/high_heels.md'
       - Clothing reference videos: 'clothing_creation/clothing_reference_videos.md'
   - Hair:
@@ -107,22 +110,24 @@ nav:
 
 theme:
   name: material
+  favicon: img/favicon.ico
+  logo: img/daz-logo-main.webp
   features:
     - navigation.tabs
     - search.suggest
     - search.highlight
     - search.share
-  theme:
-    palette:
+  palette:
+    - scheme: default
       primary: light blue
-#      - scheme: default
-#        toggle:
-#          icon: material/toggle-switch-off-outline
-#          name: Switch to dark mode
-#      - scheme: slate
-#        toggle:
-#          icon: material/toggle-switch
-#          name: Switch to light mode
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 
 
       # primary: light blue

@@ -1,4 +1,4 @@
-# 03 | Rigid follow node buttons
+# 03 | Rigid Follow Node Buttons
 Workflow by [Mada](https://www.daz3d.com/mada)
 ![type:video](https://www.youtube.com/embed/R0jFHrqtO-o)
 

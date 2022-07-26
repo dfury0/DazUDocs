@@ -1,6 +1,8 @@
-# High Heel Shoe Rigging 
+# 09 | High Heel Shoe Rigging 
 Workflow by [Mada](https://www.daz3d.com/mada)
+
 Rigging high-heeled shoes effectively start from the modeling process. There are a couple of steps in this workflow that are unique to High Heels because the shoes must change the Genesis default pose for them to work correctly. 
+
 ## Video
 ![type:video](https://www.youtube.com/embed/ykMxPJbysjg)
 

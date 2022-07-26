@@ -3,11 +3,10 @@ site_name: Daz University
 nav:
   - Home: 'index.md'
   - Content Creation Basics:
-      - Installations:
-        - Installing Daz Studio: 'setup/installing_studio.md'
+      - Installing Daz Studio: 'setup/installing_studio.md'
+      - Installing Content: 'setup/content_install.md'
       - Customizing Studio: 'setup/layout.md'
       - Custom Scripts: 'setup/custom_scripts.md'
-      - Installing Content: 'setup/content_install.md'
   - Tools:
       - Mesh Tools:
         - Morph Loader Pro: 'tools/morph_loader_pro.md'
@@ -18,8 +17,6 @@ nav:
         - Spin Dial Characters: 'character_creation/spin_dial_character.md'
         - Character Modeling: 'character_creation/character_modeling.md'
         - HD Character Sculpting: 'character_creation/hd_character.md'
-      - Poses:
-          - Saving Poses: 'character_creation/pose.md'
   - Poses and Animations:
       - Poses: 'poses/poses.md'
       - Expressions: 'poses/expressions.md'
@@ -29,13 +26,19 @@ nav:
       - Environments: 'environments/environments.md'
       - Daz to GLTF using Blender: 'extra/gltf_conversion.md'
   - Clothing:
-      - Clothing creation basics: 'clothing_creation/mada_basics.md'
-      - Flat Sandals: 'clothing_creation/flat_sandals.md'
-      - Tight Top: 'clothing_creation/tight_top.md'
-      - Buttons with Rigid Follow: 'clothing_creation/rigid_follow_buttons.md'
-      - Long Pants: 'clothing_creation/long_pants.md'
-      - High Heels: 'clothing_creation/high_heels.md'
-      - Clothing reference videos: 'clothing_creation/clothing_reference_videos.md'
+      - Clothing Reference Videos: 'clothing_creation/clothing_reference_videos.md'
+      - 00 | Clothing Creation Basics: 'clothing_creation/mada_basics.md'
+      - 01 | Flat Sandals: 'clothing_creation/flat_sandals.md'
+      - 02 | Tight Top: 'clothing_creation/tight_top.md'
+      - 03 | Buttons with Rigid Follow: 'clothing_creation/rigid_follow_buttons.md'
+      - 04 |Long Pants: 'clothing_creation/long_pants.md'
+      - 05 | Long Sleeve Shirt: 'clothing_creation/long_sleeve_shirt.md'
+      - 06 | Finished Product Organization: 'clothing_creation/finished_product_organization.md'
+      - 07 | Glasses and Rigidity Maps: 'clothing_creation/glasses_rigidity_maps.md'
+      - 08 | Floor Length Dress with Control Bones: 'clothing_creation/floor_length_dress.md'
+      - 09 | High Heels: 'clothing_creation/high_heels.md'
+      - TIP | Fix Geometry after Rigging: 'clothing_creation/fix_geometry_after_rigging.md'
+      - TIP | Split Geometry on a Finished Outfit: 'clothing_creation/split_geometry.md'
   - Hair:
       - Hair: 'hair/hair.md'
   - Product Submission:

@@ -26,6 +26,7 @@ nav:
       - Environments: 'environments/environments.md'
       - Daz to GLTF using Blender: 'extra/gltf_conversion.md'
   - Clothing:
+      - Clothing Creation Principles: 'clothing_creation/clothing_general_guidelines.md'
       - Clothing Reference Videos: 'clothing_creation/clothing_reference_videos.md'
       - 00 | Clothing Creation Basics: 'clothing_creation/mada_basics.md'
       - 01 | Flat Sandals: 'clothing_creation/flat_sandals.md'
@@ -212,4 +213,5 @@ plugins:
         webinar_62.md#video
         webinar_63.md#video
         webinar_64.md#video
+  - print-site
 

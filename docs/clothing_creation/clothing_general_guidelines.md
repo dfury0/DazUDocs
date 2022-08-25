@@ -62,17 +62,19 @@ Model clothing shape to match how the clothing hangs in the reference.
 
 Model some wrinkles into the base. Simulating dForce will smooth the mesh overall. 
 
-Add cloth thickness to mesh, but do not include backside. This is fairly unique
+Add cloth thickness to mesh, but do not include the backside faces. This is fairly unique to Daz Studio. 
 
-DO NOT cap ends. Our smoothing modifier explodes if you do. 
+DO NOT cap clothing model ends (sleeves, collars, or pants). Our smoothing modifier explodes if you do. 
 
 ## Make UVs for Texture Artists
 
-Make your UVs so others can easily modify and create new textures
+Make UVs so others can easily modify and create new textures.
 
-flat UVs with vertical alignment for textures
+Texture packing efficiency is not a priority for Daz Studio content. 
 
-Group UVs by similar type so they are easy to find. 
+Use flat UVs with vertical alignment for textures.
+
+Group UVs by similar type, so they are easy to find in an image editor by a texture artist. 
 
 Make sure the texture is easy to modify in 2d image editors. 
 
@@ -82,7 +84,7 @@ UVs can be updated after rigging, but we avoid it if we can.
 
 #### Test UVs for distortion
 
-Test with a vertical stripe and horizontal stripe pattern. 
+Test with a vertical stripe and horizontal stripe pattern. If your mesh can hold stripes, it can support
 
 ## General Clothing Rigging Guidelines
 

@@ -18,7 +18,7 @@ Why publish at Daz 3D? The answer is obvious! Not only will your products have a
 
 Daz 3D offers an Exclusive Licensing Agreement to all artists whose submitted work is accepted. This agreement contains arrangements for a 50% royalty to be paid to the legal licensor/artist each month. This agreement requires that the artist's licensed products be sold exclusively by Daz 3D, Inc. via Daz 3D's online store. Check out the details of the agreement [here](https://www.daz3d.com/eula)
 
-## hOW TO DAZ
+## HOW TO DAZ
 
 Daz 3D invites artists from around the world to sell their products on our web store. Here's how to apply to become a Published Artist.
 

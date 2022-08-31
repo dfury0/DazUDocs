@@ -2,9 +2,9 @@
 
 Build Clothing and Hair for the Genesis Base. NOT on custom characters. 
 
-The clothing will project from the base shape to the custom character, then you can adjust the morph for the custom character. This is how clothing can be compatible with multiple characters. 
+The clothing will project from the base shape to the custom character, and then you can adjust the morph for the custom character. This is how clothing can be compatible with multiple characters. 
 
-A benefit of the Genesis Avatar system is sharing clothing between multiple characters. But this comes with challenges. 
+A benefit of the Genesis Avatar system is sharing clothing between multiple characters. But this comes with challenges.
 
 ## Plan Clothing for Rigging
 
@@ -30,7 +30,7 @@ Chains, ropes, or ribbons attached at both ends are hard to rig.
 
 Lose hanging chains, ropes, and ribbons are easier to work with
 
-Use OBJ vertex group import. 
+Use OBJ vertex group import. This is a trick to import selection sets from an external modeler as weights. Then you add bones to those already weighted parts. It can be especially useful for chains, ropes, and ribbons. 
 
 #### Avoid too many rigid parts.
 
@@ -42,7 +42,7 @@ Move a belt buckle higher or lower to be on a single bone group. It will perform
 
 #### Mesh Density
 
-Lower density meshes are easier to work with and perform better. Most people add too much resolution, life will be easier if you go lower. 
+Lower-density meshes are easier to work with and perform better. Most people add too much resolution. Life will be easier if you go lower. 
 
 Fine details should be done in textures, not through modeling. 
 
@@ -50,7 +50,7 @@ Mesh density should generally be about the same as the character base mesh.
 
 Model for SubD. Daz Studio works well with subdivisions. 
 
-Hold edges with extra loops if necessary
+Hold edges with extra loops if necessary.
 
 Retopologize simulated cloth to match Genesis mesh density. 
 
@@ -62,7 +62,7 @@ Model clothing shape to match how the clothing hangs in the reference.
 
 Model some wrinkles into the base. Simulating dForce will smooth the mesh overall. 
 
-Add cloth thickness to mesh, but do not include the backside faces. This is fairly unique to Daz Studio. 
+Add cloth thickness to mesh, but do not include the backside faces. This is pretty unique to Daz Studio. 
 
 DO NOT cap clothing model ends (sleeves, collars, or pants). Our smoothing modifier explodes if you do. 
 
@@ -94,7 +94,7 @@ Rigging clothing in Daz Studio can be quite different from traditional rigging p
 
 Transfer Utility projects bone weights from one figure to another
 
-Weighting a low res proxy object is easier. 
+Weighting a low res proxy object is more manageable. 
 
 #### Selecting Donor Clothing
 
@@ -114,7 +114,7 @@ Weight paint with Genesis Base Joint Correctives Turned OFF.
 
 Matching Genesis' shape as it deforms is the goal. It will not look perfect yet. That will require Joint Corrective Morphs, which will come later. 
 
-Use the Add brush to paint weights. The Subtract Brush is unpredictable; it has to put weights somewhere and is hard to guess where they will go. 
+Use the Add brush to paint weights. The Subtract Brush is unpredictable; it has to put weights somewhere, and it is hard to guess where they will go. 
 
 Test your weights in multiple joint positions. 
 
@@ -156,7 +156,7 @@ Do not fight auto projection morphs. Just fix the broken mesh. In other words, d
 
 If the pose crunches geometry, start from the base mesh to get clean deformations. This is useful for collars and belts. 
 
-The neck area is difficult to get right because there are a lot of bones in the area. 
+The neck area is challenging to get right because there are a lot of bones in the area. 
 
 Use the smoothing modifier export/reimport trick!
 
@@ -170,9 +170,11 @@ Use the smoothing modifier export/reimport trick!
 
 #### Wearable Presets 
 
-* do not affect Geometry. 
+* Do not affect Geometry. 
 
-* Can be used for 
+* It can be used for object presets. 
+
+* Useful for clothing materials. 
 
 
 

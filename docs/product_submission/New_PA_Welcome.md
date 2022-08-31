@@ -1,27 +1,27 @@
-## Welcome to Daz!
+# Welcome to Daz!
 
 All your paperwork is complete, and you have your PASS link, now for the good part! Let’s get you making some money. So what happens next?
 
 ## How do I submit my work?
 
- Let’s take you through your first PASS submission. These are the key points in the process. 
+ Let’s take you through your first PASS submission. These are the critical points in the process. 
 
  **Validation:** 
 
-- Before submitting your product, you will use our handy dandy Validator, it will spit out a list of easy to fix errors, for example, a needed file is missing. Once your product passes Validation, save your report, and send it in with your product. Validator will be available in your account once you accept the EULA
+- Before submitting your product, you will use our handy dandy Validator; it will spit out a list of easy-to-fix errors; for example, a needed file is missing. Once your product passes Validation, save your report, and send it in with your product. The validator will be available in your account once you accept the EULA
 
 **Product Reviews:** 
 
-- Once uploaded, our review team will review your work. We meet daily Monday to Friday to review all new submissions. At every stage of the process, you will receive an email that tells you if any comments or requests have been made. Please address the comments and if required, make the changes and re-upload your product to the same PASS submission.
-- It’s possible that our review team will comment on your work. Don’t fret, this is just to ensure that your product meets our quality standards, and aims to help your sales. Higher quality = more money in your pocket
+- Once uploaded, our review team will review your work. We meet daily, Monday to Friday, to review all new submissions. At every stage of the process, you will receive an email that tells you if any comments or requests have been made. Please address the comments and if required, make the changes and re-upload your product to the same PASS submission.
+- Our review team may comment on your work. Don’t fret, this is just to ensure that your product meets our quality standards and aims to help your sales. Higher quality = more money in your pocket
 
 **Declining a product.** 
 
-- Our team strives to help you make your product the best it can be, but on the odd occasion if it doesn't meet our standards (quality or otherwise), we reserve the right to decline it. You can definitely re-submit with changes to meet our standards.
+- Our team strives to help you make your product the best it can be, but on the odd occasion, if it doesn't meet our standards (quality or otherwise), we reserve the right to decline it. You can re-submit with changes to meet our standards.
 
 **Brokering vs. Buyout** 
 
-- If you want to offer your product for buyout, PASS allows you to click Daz O and fill in your desired Buy Out price. Our team will respond, either accept your offer, negotiate a different price or move the item forward as brokered. If Daz buys your product, you will be paid once it passes QA. All future revenue will go to Daz 3D. Artist credit will be yours unless otherwise requested by you.
+- If you want to offer your product for a buyout, PASS allows you to click Daz O and fill in your desired Buy Out price. Our team will respond, either accept your offer, negotiate a different price or move the item forward as brokered. If Daz buys your product, you will be paid once it passes QA. All future revenue will go to Daz 3D. Artist credit will be yours unless otherwise requested by you.
 - Brokering your product will give you 50% of total revenue (exceptions plugins). 
 
 **Quality Assurance**
@@ -55,11 +55,11 @@ All your paperwork is complete, and you have your PASS link, now for the good pa
 
  **Brokering:** 
 
-This is the most common method of product selling. This just means that the product is put up on the store and we split the lifetime revenue 50/50. The product rights are still held by the broker (artist).
+This is the most common method of product selling. This just means that the product is put up in the store, and we split the lifetime revenue 50/50. The product rights are still held by the broker (artist).
 
 **Buyouts:**
 
-This is when we see a submission that we want to buy from the artist for a lump sum, instead of splitting the sales. If you want to take the initiative and offer the product as a buyout, you can tick the box that says "Daz O" on the PASS page before submitting and list the price you'd like to sell it for. Your name stays on the product no matter what, but Daz Productions owns the product.
+This is when we see a submission we want to buy from the artist for a lump sum instead of splitting the sales. If you want to take the initiative and offer the product as a buyout, you can tick the box that says "Daz O" on the PASS page before submitting and listing the price you'd like to sell it for. Your name stays on the product no matter what, but Daz Productions owns the product.
 
  This is what you should expect if you sell your product to us. 
 
@@ -157,7 +157,7 @@ Can I change my method of Payment?
 If you wish to update your payment details please [file a ticket](https://dazpasupport.zendesk.com/hc/en-us/requests/new).
 
 
- 
+
 
 ## What Type Of Products Do We Take?
 
@@ -280,7 +280,7 @@ Published Artist (PA) Perks
 - An additional 20% off Daz Original items beyond the standard and Platinum Club discounts.
 
 
- 
+
 
 Daz Originals (DO)
 
@@ -312,7 +312,7 @@ BLURB
 
  
 
-Please note to access the HD Morph Loader Pro, you will need to sign a separate NDA. Please be aware that unlike other content, HD content cannot be marketed, sold or even distributed for free at any other site. This includes any HD content we may choose to decline.
+Please note to access the HD Morph Loader Pro, you will need to sign a separate NDA. Please be aware that, unlike other content, HD content cannot be marketed, sold or even distributed for free at any other site. This includes any HD content we may choose to decline.
 
  
 

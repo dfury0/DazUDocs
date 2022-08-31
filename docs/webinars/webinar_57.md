@@ -27,3 +27,9 @@
 * Hierarchical presets <a href="javascript:void(0);" onclick="setCurrentTime(4)">(10:54)</a>
 * The ‘Batch’ template, converting files <a href="javascript:void(0);" onclick="setCurrentTime(5)">(21:38)</a>
 * dForce: Dynamic Surface Add-On script update and ways of adding buttons or other rigid items <a href="javascript:void(0);" onclick="setCurrentTime(6)">(31:30)</a>
+
+Scripts linked in this webinar:
+
+* [Saving Template](http://docs.daz3d.com/doku.php/public/software/dazstudio/4/referenceguide/scripting/api_reference/samples/file_io/savefilter_template_save/start)
+* [Applying Template](http://docs.daz3d.com/doku.php/public/software/dazstudio/4/referenceguide/scripting/api_reference/samples/file_io/savefilter_template_apply/start)
+* [Batch Applying Template](http://docs.daz3d.com/doku.php/public/software/dazstudio/4/referenceguide/scripting/api_reference/samples/file_io/savefilter_template_batch/start)

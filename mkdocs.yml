@@ -43,6 +43,8 @@ nav:
   - Hair:
       - Hair: 'hair/hair.md'
   - Product Submission:
+      - New Published Artists: 'product_submission/New_PA_Welcome.md'
+      - Selling with Daz: 'product_submission/SellingWithDaz.md'
       - Promotional Artwork Guidelines: 'product_submission/promo_artwork_standards.md'
   - Webinars:
       - Webinars: 'webinars/about_webinars.md'

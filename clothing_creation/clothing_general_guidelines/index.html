@@ -338,7 +338,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../product_submission/promo_artwork_standards/" class="md-tabs__link">
+      <a href="../../product_submission/New_PA_Welcome/" class="md-tabs__link">
         Product Submission
       </a>
     </li>
@@ -1364,6 +1364,34 @@
           Product Submission
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../product_submission/New_PA_Welcome/" class="md-nav__link">
+        New Published Artists
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../product_submission/SellingWithDaz/" class="md-nav__link">
+        Selling with Daz
+      </a>
+    </li>
+  
+
+            
           
             
               
@@ -2527,8 +2555,8 @@
 
 <h1 id="clothing-tips">Clothing Tips</h1>
 <p>Build Clothing and Hair for the Genesis Base. NOT on custom characters. </p>
-<p>The clothing will project from the base shape to the custom character, then you can adjust the morph for the custom character. This is how clothing can be compatible with multiple characters. </p>
-<p>A benefit of the Genesis Avatar system is sharing clothing between multiple characters. But this comes with challenges. </p>
+<p>The clothing will project from the base shape to the custom character, and then you can adjust the morph for the custom character. This is how clothing can be compatible with multiple characters. </p>
+<p>A benefit of the Genesis Avatar system is sharing clothing between multiple characters. But this comes with challenges.</p>
 <h2 id="plan-clothing-for-rigging">Plan Clothing for Rigging</h2>
 <p>Rigging a Daz clothing item can be difficult and time-consuming. Expert clothing creators take every shortcut they can. It starts from the planning and design stage. Some articles of clothing, like plate armor, may never deform correctly unless you follow some of these tricks. </p>
 <h4 id="keep-clothing-geometry-close-to-the-base-mesh">Keep clothing geometry close to the base mesh</h4>
@@ -2544,38 +2572,39 @@
 <p>If clothing can be worn separately, it should be a separate model.</p>
 <p>Chains, ropes, or ribbons attached at both ends are hard to rig. </p>
 <p>Lose hanging chains, ropes, and ribbons are easier to work with</p>
-<p>Use OBJ vertex group import. </p>
+<p>Use OBJ vertex group import. This is a trick to import selection sets from an external modeler as weights. Then you add bones to those already weighted parts. It can be especially useful for chains, ropes, and ribbons. </p>
 <h4 id="avoid-too-many-rigid-parts">Avoid too many rigid parts.</h4>
 <p>They are a lot of work. Plate armor is hard!</p>
 <p>Place rigid objects on single bones. Thinking about bones while modeling will help when rigging. </p>
 <p>Move a belt buckle higher or lower to be on a single bone group. It will perform better. </p>
 <h4 id="mesh-density">Mesh Density</h4>
-<p>Lower density meshes are easier to work with and perform better. Most people add too much resolution, life will be easier if you go lower. </p>
+<p>Lower-density meshes are easier to work with and perform better. Most people add too much resolution. Life will be easier if you go lower. </p>
 <p>Fine details should be done in textures, not through modeling. </p>
 <p>Mesh density should generally be about the same as the character base mesh. </p>
 <p>Model for SubD. Daz Studio works well with subdivisions. </p>
-<p>Hold edges with extra loops if necessary</p>
+<p>Hold edges with extra loops if necessary.</p>
 <p>Retopologize simulated cloth to match Genesis mesh density. </p>
 <p>Rigging high-density meshes is a nightmare and rarely works. Low resolution is usually better. </p>
 <h4 id="modeling">Modeling</h4>
 <p>Model clothing shape to match how the clothing hangs in the reference. </p>
 <p>Model some wrinkles into the base. Simulating dForce will smooth the mesh overall. </p>
-<p>Add cloth thickness to mesh, but do not include backside. This is fairly unique</p>
-<p>DO NOT cap ends. Our smoothing modifier explodes if you do. </p>
+<p>Add cloth thickness to mesh, but do not include the backside faces. This is pretty unique to Daz Studio. </p>
+<p>DO NOT cap clothing model ends (sleeves, collars, or pants). Our smoothing modifier explodes if you do. </p>
 <h2 id="make-uvs-for-texture-artists">Make UVs for Texture Artists</h2>
-<p>Make your UVs so others can easily modify and create new textures</p>
-<p>flat UVs with vertical alignment for textures</p>
-<p>Group UVs by similar type so they are easy to find. </p>
+<p>Make UVs so others can easily modify and create new textures.</p>
+<p>Texture packing efficiency is not a priority for Daz Studio content. </p>
+<p>Use flat UVs with vertical alignment for textures.</p>
+<p>Group UVs by similar type, so they are easy to find in an image editor by a texture artist. </p>
 <p>Make sure the texture is easy to modify in 2d image editors. </p>
 <p>Cut UV seams where real-world clothing seams would be.</p>
 <p>UVs can be updated after rigging, but we avoid it if we can. </p>
 <h4 id="test-uvs-for-distortion">Test UVs for distortion</h4>
-<p>Test with a vertical stripe and horizontal stripe pattern. </p>
+<p>Test with a vertical stripe and horizontal stripe pattern. If your mesh can hold stripes, it can support</p>
 <h2 id="general-clothing-rigging-guidelines">General Clothing Rigging Guidelines</h2>
 <p>Rigging clothing in Daz Studio can be quite different from traditional rigging pipelines. Because Genesis is an avatar system, you are making sure the clothing works with multiple Genesis characters.</p>
 <h4 id="clothing-is-rigged-to-the-base-character-using-transfer-utility">Clothing is rigged to the base character using Transfer Utility</h4>
 <p>Transfer Utility projects bone weights from one figure to another</p>
-<p>Weighting a low res proxy object is easier. </p>
+<p>Weighting a low res proxy object is more manageable. </p>
 <h4 id="selecting-donor-clothing">Selecting Donor Clothing</h4>
 <p>You can transfer rigging from donor clothing and preserve JCM formulas. MAGIC!</p>
 <p>Mada's Daz Original Clothing is a great starting place for donor rigging. </p>
@@ -2585,7 +2614,7 @@
 <p>Weights will already exist from Transfer Utility but may need cleaning. </p>
 <p>Weight paint with Genesis Base Joint Correctives Turned OFF. </p>
 <p>Matching Genesis' shape as it deforms is the goal. It will not look perfect yet. That will require Joint Corrective Morphs, which will come later. </p>
-<p>Use the Add brush to paint weights. The Subtract Brush is unpredictable; it has to put weights somewhere and is hard to guess where they will go. </p>
+<p>Use the Add brush to paint weights. The Subtract Brush is unpredictable; it has to put weights somewhere, and it is hard to guess where they will go. </p>
 <p>Test your weights in multiple joint positions. </p>
 <p>If a rigid object is shared by two bones, weight rigid objects to one bone. Then, create a JCM for the second bone.</p>
 <p>Turn Genesis Correctives Back on before building Joint Corrective Morphs. </p>
@@ -2612,7 +2641,7 @@
 </ul>
 <p>Do not fight auto projection morphs. Just fix the broken mesh. In other words, don't try to fix mesh placement from a different character morph. As a clothing modeler, you cannot control how the character meshes deform. Just make it less broken. </p>
 <p>If the pose crunches geometry, start from the base mesh to get clean deformations. This is useful for collars and belts. </p>
-<p>The neck area is difficult to get right because there are a lot of bones in the area. </p>
+<p>The neck area is challenging to get right because there are a lot of bones in the area. </p>
 <p>Use the smoothing modifier export/reimport trick!</p>
 <h2 id="ways-to-save-clothing">Ways to save clothing</h2>
 <h4 id="figure-prop-asset">Figure Prop Asset</h4>
@@ -2624,10 +2653,13 @@
 <h4 id="wearable-presets">Wearable Presets</h4>
 <ul>
 <li>
-<p>do not affect Geometry. </p>
+<p>Do not affect Geometry. </p>
 </li>
 <li>
-<p>Can be used for </p>
+<p>It can be used for object presets. </p>
+</li>
+<li>
+<p>Useful for clothing materials. </p>
 </li>
 </ul>
 

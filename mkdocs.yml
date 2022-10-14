@@ -17,6 +17,12 @@ nav:
         - Spin Dial Characters: 'character_creation/spin_dial_character.md'
         - Character Modeling: 'character_creation/character_modeling.md'
         - HD Character Sculpting: 'character_creation/hd_character.md'
+      - Genesis 9:
+        - Key Points: 'character_creation/character_creation_key_points.md'
+        - G9 Sculpting Cheat Sheet: 'character_creation/g9_sculpting_cheat_sheet.md'
+        - G9 Sculpting Workflow: 'character_creation/g9_dos_and_donts.md'
+        - Character Rigging in Daz Studio: 'character_creation/what_is_character_rigging.md'
+        - Developer Kit: 'character_creation/G9_dev_kit.md'
   - Poses and Animations:
       - Poses: 'poses/poses.md'
       - Expressions: 'poses/expressions.md'

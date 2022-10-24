@@ -5,7 +5,7 @@ Workflow by [Mada](https://www.daz3d.com/mada)
 Skill level : Advanced
 I recommend working through basic rigging tutorials first
 
-![type:video](https://www.youtube.com/embed/floor_length_dress.mdjoIM9_usd1g)
+![type:video](https://www.youtube.com/embed/joIM9_usd1g)
 
 Length : 17:41
 

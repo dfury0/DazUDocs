@@ -13,9 +13,7 @@
 
 ### Using Morphs As Starting Point
 
-* **DAZ Studio: Do use the Base Feminine and Base Masculine as starting shapes.** They are example characters and their shapes are free to use as exported starting points for character sculpting. They should not be extracted when loading your finished character blendshape. Your final character should be a standalone shape on the G9 base figure.
-  * Get masculine base files [here](https://www.dropbox.com/s/zyr8memrtxvletb/G9_masc_plus_anatomy.zip?dl=0)
-  * Get feminine base files [here](https://www.dropbox.com/s/vyoova8miratg90/G9_fem_plus_anatomy.zip?dl=0)
+* **DAZ Studio: Do use the Base Feminine and Base Masculine as starting shapes.** They are example characters and, their shapes are free to use as exported starting points for character sculpting. They should not be extracted when loading your finished character blendshape. Your final character should be a standalone shape on the G9 base figure.
 * **DAZ Studio: Do use the morphs in the following packages to create starting shapes.** Merchant resource blendshapes can be a good way to jump-start a shape before further character sculpting in an external program. The following packages are allowed for use this way.
   * G9 Starter Essentials.
   * Head or Body morph packages.

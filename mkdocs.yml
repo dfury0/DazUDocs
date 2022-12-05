@@ -29,7 +29,8 @@ nav:
       - Pose Presets: 'poses/animations.md'
       - Animations: 'poses/animations.md'
   - Props and Environments:
-      - Environments: 'environments/environments.md'
+      - Environments: 'props/environments.md'
+      - Hand Props: 'props/hand_props.md'
       - Daz to GLTF using Blender: 'extra/gltf_conversion.md'
   - Clothing:
       - Clothing Creation Principles: 'clothing_creation/clothing_general_guidelines.md'
@@ -38,7 +39,7 @@ nav:
       - 01 | Flat Sandals: 'clothing_creation/flat_sandals.md'
       - 02 | Tight Top: 'clothing_creation/tight_top.md'
       - 03 | Buttons with Rigid Follow: 'clothing_creation/rigid_follow_buttons.md'
-      - 04 |Long Pants: 'clothing_creation/long_pants.md'
+      - 04 | Long Pants: 'clothing_creation/long_pants.md'
       - 05 | Long Sleeve Shirt: 'clothing_creation/long_sleeve_shirt.md'
       - 06 | Finished Product Organization: 'clothing_creation/finished_product_organization.md'
       - 07 | Glasses and Rigidity Maps: 'clothing_creation/glasses_rigidity_maps.md'

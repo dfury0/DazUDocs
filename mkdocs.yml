@@ -131,16 +131,17 @@ theme:
     - search.highlight
     - search.share
   palette:
-    - scheme: default
-      primary: light blue
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
     - scheme: slate
       primary: black
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+    - scheme: default
+      primary: light blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
 
 
       # primary: light blue
@@ -222,5 +223,6 @@ plugins:
         webinar_62.md#video
         webinar_63.md#video
         webinar_64.md#video
-  - print-site
+  - offline
+#  - print-site
 

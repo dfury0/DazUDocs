@@ -1,0 +1,65 @@
+// DAZ Studio version 4.5.1.37 filetype DAZ Script
+/**********************************************************************
+ 
+	Copyright (C) 2002-2017 Daz 3D, Inc. All Rights Reserved.
+ 
+	This script is provided as part of the Daz Script Documentation. The
+	contents of this script, and\or any portion thereof, may only be used
+	in accordance with the following license:
+ 
+	Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+	- http://creativecommons.org/licenses/by/3.0
+ 
+	To contact Daz 3D or for more information about Daz Script visit the
+	Daz 3D website:
+ 
+	- http://www.daz3d.com
+ 
+**********************************************************************/
+
+var primarySel = Scene.getPrimarySelection();
+if ( primarySel )
+{
+	var follower = 0;
+	var primarySkel = 0;
+	
+	if ( primarySel.inherits("DzBone") )
+	{
+		follower = primarySel.getFollowBone();
+		primarySkel = primarySel.getSkeleton();
+	}
+	else if ( primarySel.inherits("DzSkeleton") )
+	{
+		follower = primarySel.getFollowTarget();
+		primarySkel = primarySel;
+	}
+	
+	if ( follower )
+	{
+		primarySel.select(false);
+		Scene.setPrimarySelection(follower);
+	}
+	else  if ( primarySkel )//Try to find skeleton following primarySel
+	{
+		var numSkels = Scene.getNumSkeletons();
+		for ( var i = 0; i<numSkels; i++ )
+		{
+			var curSkel = Scene.getSkeleton(i);
+			if ( curSkel.getFollowTarget() == primarySkel )
+			{
+				var followee = 0;
+				if ( primarySkel != primarySel )
+				{
+					var followee = curSkel.findBone( primarySel.getName() );
+				}
+				else
+				{
+						followee = curSkel;
+				}
+				primarySel.select(false);
+				Scene.setPrimarySelection(followee);
+			}
+		}
+		
+	}	
+}

@@ -53,6 +53,8 @@ nav:
       - New Published Artists: 'product_submission/New_PA_Welcome.md'
       - Selling with Daz: 'product_submission/SellingWithDaz.md'
       - Promotional Artwork Guidelines: 'product_submission/promo_artwork_standards.md'
+      - Published Artist Support:
+          - Checking a Character: 'pa_support/checking_a_character.md'
   - Webinars:
       - Webinars: 'webinars/about_webinars.md'
       - 01 - Morph Loader Pro and Corrective Morphs: 'webinars/webinar_1.md'

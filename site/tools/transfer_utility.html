@@ -577,9 +577,40 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Transfer Utility
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="transfer_utility.html" class="md-nav__link md-nav__link--active">
         Transfer Utility
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#fixing-broken-vertex-orders" class="md-nav__link">
+    Fixing Broken Vertex Orders
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -2366,6 +2397,21 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#fixing-broken-vertex-orders" class="md-nav__link">
+    Fixing Broken Vertex Orders
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -2384,6 +2430,8 @@
 <p>Transfer Utility is one of the main rigging tools for Daz Studio. Transfer Utility is often the first step for rigging if you are making characters, clothing, hair, jewelry or accessories. Unlike other rigging workflows where you add bones and create weights from scratch, Transfer Utility binds objects to a parent figure's skeleton and transfers the parent figures weights automatically.</p>
 <p>This means you can add a clothing OBJ to Genesis, run transfer Utility, and the clothing will follow. The difficulty comes in cleaning up the transfer so that you get good behavior however users play with the content. </p>
 <p>If you are setting up a character or prop from scratch you will often want to use the Figure Setup Tool. </p>
+<h2 id="fixing-broken-vertex-orders">Fixing Broken Vertex Orders</h2>
+<p>If your vertex order breaks there might be an issue with your modeling pipeline. Blender, for instance, will change vertex order on import and export unless explicitly told not to. But once you have a broken vertex order is there anything you can do to fix it? If you have the base model with the same broken vertex order you can use transfer utility to project the morph.  </p>
 
 
 

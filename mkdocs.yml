@@ -7,6 +7,40 @@ nav:
       - Installing Content: 'setup/content_install.md'
       - Customizing Studio: 'setup/layout.md'
       - Custom Scripts: 'setup/custom_scripts.md'
+  - PA Support Package Docs:
+      - Policy Updates: 'pa_support/PA Support Package !Policy Updates Read First.md'
+      - All Products: 'pa_support/PA Support Package All Products.md'
+      - Checking products:
+        - Folder Structure: 'pa_support/PA Support Package Folder Structure.md'
+        - Camera Presets: 'pa_support/PA Support Package Camera Presets.md'
+        - Character: 'pa_support/PA Support Package Checking a Character.md'
+        - Pose: 'pa_support/PA Support Package Checking a Pose.md'
+        - Prop: 'pa_support/PA Support Package Checking a Prop.md'
+        - Environment: 'pa_support/PA Support Package Checking an Environment.md'
+        - Expression: 'pa_support/PA Support Package Checking an Expression.md'
+        - Clothing: 'pa_support/PA Support Package Checking Clothing.md'
+        - Hair: 'pa_support/PA Support Package Checking Hair.md'
+        - Scripts: 'pa_support/PA Support Package Checking Scripts.md'
+      - Clean Library: 'pa_support/PA Support Package Clean Library.md'
+      - Required Shapes: 'pa_support/PA Support Package Daz Original Required Shapes.md'
+      - Notes:
+        - Clothing: 'pa_support/PA Support Package dForce Clothing Notes.md'
+        - Hair: 'pa_support/PA Support Package dForce Hair Notes.md'
+      - Genesis 9:
+        - Required Shapes: 'pa_support/PA Support Package Genesis 9 Daz Original Required Shapes.md'
+        - Folder Structure: 'pa_support/PA Support Package Genesis 9 Folder Structure.md'
+        - Merchant Resources: 'pa_support/PA Support Package Genesis 9 Merchant Resources.md'
+        - Naming Conventions: 'pa_support/PA Support Package Genesis 9 Naming Conventions.md'
+      - PASS submission:
+        - PASS Tutorial: 'pa_support/PA Support Package Pass Tutorial.md'
+        - PASS Forms Guide: 'pa_support/PA Support Package How to Fill Out PASS Correctly.md'
+      - PA Support Package Tools:
+        - Miscellaneous Files: 'pa_support/PA Support Package Miscellaneous Files.md'
+        - Pose Presets: 'pa_support/PA Support Package Pose Presets.md'
+        - Product Artwork Standards: 'pa_support/PA Support Package Product Artwork Standards.md'
+        - Included Scripts: 'pa_support/PA Support Package Scripts.md'
+        - Splitting Product: 'pa_support/PA Support Package Splitting Product.md'
+        - tip.png Images Explained: 'pa_support/PA Support Package tip.png Images Explained.md'
   - Tools:
       - Mesh Tools:
         - Morph Loader Pro: 'tools/morph_loader_pro.md'

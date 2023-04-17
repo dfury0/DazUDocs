@@ -1,8 +1,18 @@
 # Welcome to Daz University Content Creation Docs
 
-We have developed this site to help you to be the best Daz artist possible. You will find reference guides, tutorials, and tools developed to improve your skills and streamline your processes.  We will and are continually looking at what training materials and resources we can create to help you learn and develop your skills and talents.  If you succeed, we all succeed. ​
+Welcome to our dynamic platform, designed to transform you into the ultimate Daz artist! We're committed to providing you with many resources, including comprehensive guides, interactive tutorials, and cutting-edge tools tailored to elevate your artistic prowess and streamline your creative journey. We're always exploring fresh avenues to curate innovative training materials and resources to empower you to harness your unique skills and talents. After all, your success is our success!
 
-Here at Daz, we have a great team that is working long hours to review, test, coordinate, and populate the store with all the products you are creating.  Would you like to meet some of the Daz Content team? Click on the "Read More" button below.
+At Daz, we're proud of our dedicated team, working tirelessly behind the scenes to meticulously review, test, and curate the store with the outstanding products you produce. 
 
-## DAZ Workflows
+## How to Sell 3D Products on Daz3D.com
 
+1. **Familiarize yourself with Daz Studio and the Daz 3D ecosystem:** Before you begin, get comfortable with Daz Studio, the primary software used by Daz 3D customers. Explore the software, understand its capabilities, and learn how to create content that appeals to the user base.
+2. **Create a Daz 3D account:** If you haven't already, sign up for a Daz 3D account at [https://www.daz3d.com](https://www.daz3d.com). You'll need an account to access the store, forums, and submission process.
+3. **Research the market:** Browse the Daz 3D store to understand the types of products that sell well. Look for market gaps or popular themes you can create content around. This will help you develop a strategy for creating and marketing your products.
+4. **Develop your 3D content:** Create high-quality, unique 3D models, characters, props, or environments compatible with Daz Studio. Make sure your content is polished and user-friendly. For example, you may want to create product documentation, such as user guides, to help customers use your products effectively.
+5. **Prepare your product for submission:** Organize your files, create promotional images, and write a clear, concise product description. Ensure your content meets Daz 3D's technical and quality standards, as the submission guidelines outline.
+6. **Apply to become a Published Artist:** To sell your products on Daz 3D, you must first become a Published Artist. Visit the Daz 3D Published Artist page ([https://www.daz3d.com/pa/landing](https://www.daz3d.com/pa/landing)) and follow the application instructions. This process typically involves submitting a portfolio of your work and waiting for approval.
+7. **Submit your product:** Once accepted as a Published Artist, you can submit your products to the Daz 3D store using the Published Artist Submission System (PASS pass.daz3d.com). Follow the guidelines provided and be prepared to make any necessary revisions based on feedback from the Daz 3D team.
+8. **Work with Quality Assurance:** Our QA process can be rigorous to ensure the best product experience for our users. 
+9. **Promote your products:** After your product is live in the Daz 3D store, it's essential to promote it. Share your product on social media, participate in the Daz 3D forums, and network with other artists and customers. Effective promotion can help drive sales and build your reputation as a 3D content creator.
+10. **Keep creating and refining:** As you gain customer experience and feedback, continue to develop new products and update existing ones. Staying active and responsive to customer needs can help you maintain a successful presence in the Daz 3D marketplace.

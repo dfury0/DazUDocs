@@ -7,7 +7,7 @@ nav:
       - Installing Content: 'setup/content_install.md'
       - Customizing Studio: 'setup/layout.md'
       - Custom Scripts: 'setup/custom_scripts.md'
-  - PA Support Package Docs:
+  - PA Support Package:
       - Policy Updates: 'pa_support/PA Support Package !Policy Updates Read First.md'
       - All Products: 'pa_support/PA Support Package All Products.md'
       - Checking products:

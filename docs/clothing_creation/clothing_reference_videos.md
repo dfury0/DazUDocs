@@ -80,9 +80,13 @@
 - Summary of getting detail pieces on clothing to work well.
 - Make sure to fix weightmap issues first before dealing with morphs. I show the type of workflow that will serve you well when working on clothing with Genesis 3.
 
-## Using Smoothing to Fix Clothing
+## Setting up bone movement with ERC Freeze
 
 ![type:video](https://www.youtube.com/embed/D5XpT5vDlkI)
+
+## Using Smoothing to Fix Clothing
+
+![type:video](https://www.youtube.com/embed/RU1kQBeEb3Y)
 
 - Using the smoothing modifier to fix up morph problems in clothing. DAZ Studio automatically projects morphs from Genesis figures to clothing but the results aren't always the best. This shows how to use tools included with DAZ Studio to fix up the morphs.
 - WARNING: Using this method to fix issues is a little heavy handed and can cause issues of its own. For instance, if you rotate the right thigh in to the limit and apply smoothing to fix poke through on a pair of shorts, you are causing the right thigh to intersect with the left and what you can't see is now you are pushing the geometry on the left thigh of the shorts inside the leg. You are fixing one issue but causing another.
@@ -118,3 +122,4 @@
 
 - A brief introduction to using the Controllable Dynamic Shapes product that uses OptiTex's Dynamic Clothing plugin for DAZ Studio.
 - Please note that this product may have problems if used in a version newer than DS 4.6
+

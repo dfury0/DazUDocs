@@ -1,5 +1,9 @@
 # Checking a Character
 
+## Clones
+
+Clones are not to be used in the creation of characters.
+
 ## Check included morphs
 
 ### data//Morphs Folder check
@@ -89,7 +93,7 @@ mapped in the Content Library.
 11. Morphs that move the mesh significantly, should also move the relevant bones.
 12. Pose controls move bones.
 13. Make sure morph limits are set.
-14. For multiple morphs for a character after testing each morph, make sure that it is at 0% before
+14. For multiple morphs for a character, after testing each morph, make sure that it is at 0% before
     moving on to the next morph.
 15. Make sure to be consistent between points and percentages.
 16. Morphs should show up in both the Parameter and Shaping Panes.
@@ -232,25 +236,25 @@ Go back to the Parameters pane
 
 ###### Check MAT presets.
 
-	1. See if product has Iray/3Delight MATs
-	2. Make sure that MAT is applying what the thumbnail shows.
-	3. Make sure that all MATs load correctly
-    	1. Eyes
-    	2. Eyelashes
-    	3. Lips
-    	4. Makeup
-    	5. Nails
-    	6. Needs a reset to natural nails.
-    	7. Brows
-	4. Sometimes the difference in the hair colors are very subtle so you will have to look in the
-    Surfaces pane while loading the materials to see if there is a difference between the
-    MATs
-	5. Hierarchical Materials:
-    	1. Eyebrows, Eyelashes, Genitals, and any other material additive to the figure like
-        Zalera spine should be Hierarchical so they apply the item materials and not the
-        base character material.
-    	2. Strip materials from Character and Select the figure root then apply the H. Mat to
-        check this.
+  1. See if product has Iray/3Delight MATs
+  2. Make sure that MAT is applying what the thumbnail shows.
+  3. Make sure that all MATs load correctly
+      1. Eyes
+      2. Eyelashes
+      3. Lips
+      4. Makeup
+      5. Nails
+      6. Needs a reset to natural nails.
+      7. Brows
+  4. Sometimes the difference in the hair colors are very subtle so you will have to look in the
+  Surfaces pane while loading the materials to see if there is a difference between the
+  MATs
+  5. Hierarchical Materials:
+      1. Eyebrows, Eyelashes, Genitals, and any other material additive to the figure like
+      Zalera spine should be Hierarchical so they apply the item materials and not the
+      base character material.
+      2. Strip materials from Character and Select the figure root then apply the H. Mat to
+      check this.
 
 ###### If the character has JCM’s, you will need to test them.
 

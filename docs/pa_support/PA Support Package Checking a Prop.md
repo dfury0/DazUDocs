@@ -1,103 +1,60 @@
-> [Checking a Prop]{.underline}
+# Checking a Prop
 
-1.  In Daz Studio
+## Check the **Scene ID**. 
 
-    a.  Check the Scene ID to ensure that the geometry is coming from
-        the data folder and not the duf.
+Load the prop into the scene and ensure the geometry comes from the data folder, not the DUF.
 
-    b.  Run List Geometry Source Script in QA scripts, if errors(Red):
+Run **List Geometry Source Script** in **QA scripts**. If errors (Red):
 
-        i.  Select Item in the Scene
+* Select the Item in the Scene. *Edit-\>Object-\>Scene Identification*
+    * If it is pulling from the **DUF**  it will have \***#whatever*** after it
+    * If it is pulling from the **data folder**, it will show **/data/whatever**
 
-        ii. Edit-\>Object-\>Scene Identification
+Run Embedded **Check in Geometry File Script**, then Clear the Daz Studio log file.
 
-        iii. If it is pulling from the duf it will have #what ever after
-             it
+## Check the Geometry and Center of Rotation
 
-        iv. If it is pulling from the data folder it will show
-            /data/then whatever
+Load the prop into a New Scene and ensure no error messages appear in the **log file**.
 
-    c.  Run Embedded Check in Geometry File Script.
+Check the prop's center of rotation (the Universal Tool will show the axis)
 
-    d.  Clear the Daz Studio log file.
+* For handheld props, the center should be where the item would be gripped
+* The center should be a logical point for other props to rotate.
 
-    e.  Load prop into the Scene.
+## Figure Props
 
-        i.  Make sure that no error messages appear in the log file.
+1.  Load the figure first and then load the prop into the scene.
+2.  Ensure there is minimal poke through where the figure's body connects with the prop.
+3.  Ensure the prop is not *"hovering*" away from the character.
 
-        ii. Check the prop's center of rotation (the Universal Tool will
-            show the axis)
+ALL props should load at 0,0 unless loaded within a Scene Preset. 
 
-            1.  For hand held props, the center should be where the item
-                would be gripped
+## Test all materials.
 
-            2.  For other props, the center should be a logical point to
-                rotate on.
+Make sure that the materials load correctly with **no Missing file errors**. The material thumbnail should match the applied material.
 
-        iii. If the prop goes to a figure:
+## Thoroughly examine every inch of the prop.
 
-```{=html}
-<!-- -->
-```
-a.  Load the figure first and then load the prop into the scene.
+### Moveable parts (doors, windows, etc.)
 
-b.  Make sure there is minimal through where the figure's body connects
-    > with the prop.
+* Make sure that limits are set correctly.
+    * The object should not become distorted when moving the dial up or down.
+    * Moveable parts should load in Default Position.
 
-c.  Make sure that the prop is not "hovering" away from the character.
+### Grouped Props
+Separate props that make up something like a vehicle or a structure should Be under a **Group** to allow the movement of all the props as one.
 
-    i.  ALL props should load at 0,0 unless they are loaded within a
-        Scene Preset. Test all materials.
+### Weapons
+* Any hand-held prop should be saved out as a "wearable preset" that loads with the grip.
+* There needs to be a separate H-pose preset that includes the 'grip' poses of the hands ONLY when the weapon is applied.
 
-```{=html}
-<!-- -->
-```
-a.  Make sure that the materials load correctly
+### Check that each item is selectable in the viewport.
 
-    i.  No Missing file errors.
+You should be able to click/right+click on any item and have the option to select that item.
 
-    ii. Material in thumbnail should match material that is applied.
+##  Render
 
-    iii. Make sure you thoroughly examine every inch of the prop.
-
-         i.  Any moveable parts (doors, windows, etc.)
-
-             1.  Make sure that limits are set correctly.
-
-                 a.  When moving dial up or down all of the way, the
-                     > object should not become distorted.
-
-                 b.  Moveable parts should load in Default Position.
-
-         ii. Grouped Props:
-
-             1.  Separate props that make up something like a vehicle or
-                 a Structure should Be under a Group to allow movement
-                 of all the props as one.
-
-         iii. Weapons:
-
-              1.  Any hand-held prop should be saved out as a "wearable
-                  preset" that loads with the grip.
-
-              2.  There needs to be a separate H-pose preset that
-                  includes the 'grip' poses of the hands ONLY when the
-                  weapon is applied.
-
-         iv. Check that each item is selectable in the viewport.
-
-             1.  You should be able to click/right+click on any item and
-                 have the option to select that item.
-
-         v.  Render
-
-             1.  Make sure that the prop renders correctly.
-
-                 a.  Be sure to test in the correct render engine(s).
-
-                 b.  Render each material.
-
-                 c.  DO NOT use the Iray Drawstyle to test the render.
-                     > They do need to be rendered out.
-
-1
+Make sure that the prop renders correctly.
+ -  Be sure to test in the correct render engine(s).
+ -  Render each material.
+ -  DO NOT use the **Iray Drawstyle** to test the render. They do need to be rendered out.
